@@ -41,7 +41,9 @@ Clone the repository:
 
 bash
 Copy code
+
 git clone git@github.com:Dannynsikak/javascript-class-method.git
+
 
 
 bash
