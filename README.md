@@ -24,15 +24,6 @@ Copy code
 Select an operation: Choose a mathematical operation from the dropdown (Sum, Average, Min, Max, Median, Mode, or Range).
 
 Click "Calculate": Press the "Calculate" button, and the result will be displayed below.
-
-Project Structure
-bash
-Copy code
-├── index.html          # Main HTML file containing the user interface
-├── index2.js           # JavaScript file that handles the calculations
-├── input.css           # (Optional) Tailwind input CSS file
-├── output.css          # (Optional) Generated CSS file
-└── tailwind.config.js  # (Optional) Tailwind configuration file
 Example
 For the input:
 
